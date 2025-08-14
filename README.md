@@ -7,12 +7,13 @@
 </a>
 
 <br/>
-
+<br/>
 <div align="center">
-<a href="https://sarthakkhanna.xyz" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Sarthak Khanna | Linkedin" /></a>
-<a href="https://sarthakkhanna.xyz" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Sarthak Khanna | GitHub" /></a>
+<a href="https://www.linkedin.com/in/sarthakkhanna07" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Sarthak Khanna | Linkedin" /></a>
+<a href="https://github.com/Sarthakkhanna07" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Sarthak Khanna | GitHub" /></a>
 <a href="https://sarthakkhanna.xyz" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio3.svg" alt="Sarthak Khanna | Portfolio" /></a>
 </div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <a href="https://github.com/Sarthakkhanna07" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
 
@@ -32,7 +33,9 @@
 
 <br/>
 
-<div align="center" style="padding: 10px; font-size: 1.1em;"><span style="color: orange">⚡</span> Fun fact <b>I’ve always loved art, and my curiosity for technology led me to discover coding — a creative space where both worlds come together</b></div>
+<p align="center">
+  <b>⚡ I’ve always loved art, and my curiosity for technology led me to discover coding — a creative space where both worlds come together</b>
+</p>
 
 <br/>
 
